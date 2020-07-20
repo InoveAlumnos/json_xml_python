@@ -53,7 +53,7 @@ Deben usar el módulo request como se vió en clase para consumir la URL provist
 ```
 url = https://jsonmock.hackerrank.com/api/transactions/search?txnType=debit&page={}.format(page_number)
 ```
-Deben crear una función llamada "fetch" que reciba como parámetro el número de la página que desean leer y el "location_id".\
+Deben crear una función llamada "fetch" que reciba como parámetro el número de la página que desean leer y el "location_id".
 ```
 dataset = fetch(page_number, location_id)
 ```
@@ -62,7 +62,7 @@ El dataset que retorna fetch debe ser una lista de diccionarios con la siguiente
 ```
 {"userId": ..., "amount": ...}
 ```
-dataset es una lista que contiene una fila como la anterior mostrada por cada conjunto de JSON que lea. Ejemplo: supongamos que el JSON que recibieron del request es (a modo de ejemplo resumido):\
+dataset es una lista que contiene una fila como la anterior mostrada por cada conjunto de JSON que lea. Ejemplo: supongamos que el JSON que recibieron del request es (a modo de ejemplo resumido):
 ```
 {
  "page":"5",
