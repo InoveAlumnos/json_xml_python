@@ -3,7 +3,7 @@ Inove Escuela de Código\
 info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
 
-# Bucles! [Python]
+# JSON y XML! [Python]
 En este repositorio encontrarán los siguientes archivos:
 
 __Ejemplos que el profesor mostrará en clase__\
@@ -13,7 +13,7 @@ __Ejercicios para que el alumno desarrolle durante la clase__\
 ejercicios_clase.py
 
 __Ejercicios para que el alumno profundice sobre el tema durante la semana__\
-ejercicios_practica.py
+ejercicios_practica.md
 
 # Consultas
 alumnos@inove.com.ar
