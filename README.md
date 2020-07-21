@@ -13,7 +13,8 @@ __Ejercicios para que el alumno desarrolle durante la clase__\
 ejercicios_clase.py
 
 __Ejercicios para que el alumno profundice sobre el tema durante la semana__\
-ejercicios_practica.md
+ejercicio_meli.md
+ejercicio_hackerrank.md (avanzado)
 
 # Consultas
 alumnos@inove.com.ar
